@@ -1,7 +1,7 @@
 opsworks-docker
 ===============
 
-## Forked from https://github.com/J-Katzen/opsworks-docker, this version does not support SSL
+Forked from https://github.com/J-Katzen/opsworks-docker, this version does not support SSL
 
 
 Make Docker go on Ops Works&lt;/pakled>
