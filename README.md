@@ -1,6 +1,9 @@
 opsworks-docker
 ===============
 
+## Forked from https://github.com/J-Katzen/opsworks-docker, this version does not support SSL
+
+
 Make Docker go on Ops Works&lt;/pakled>
 
 Based on [this AWS blog entry](http://blogs.aws.amazon.com/application-management/post/Tx2FPK7NJS5AQC5/Running-Docker-on-AWS-OpsWorks)
@@ -31,4 +34,4 @@ Instructions
         * registry_url: OPTIONAL url to a non hub.docker ala quay.io
         * registry_username: OPTIONAL username to login to the registry
         * registry_password: OPTIONAL password to login to the registry
-        * 
+        *
